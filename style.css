@@ -23,11 +23,11 @@ font-size:1cm;
 .btv{
 
     width: 100px;
-    height: 100px;
+    height: 55px;
     text-align: center;
     background-color: antiquewhite;
     top: 80%;
-    border-radius: 50%;
+    border-radius: 25%;
     position: fixed;
     left: 90%;
 }
