@@ -19,3 +19,23 @@ h2{
 font-size:1cm;
 
 }
+
+.btv{
+
+width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: antiquewhite;
+top:5%;
+border-radius:50%;
+
+}
+
+.textb {
+
+position: relative;
+text-align:center;
+top:25%;
+
+
+}
