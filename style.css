@@ -43,9 +43,9 @@ font-size:1cm;
 
 .textb {
 
-position: fixed;
-text-align:center;
-top:25%;
-
+    position: fixed;
+    text-align: center;
+    top: 80%;
+    left: 92%;
 
 }
